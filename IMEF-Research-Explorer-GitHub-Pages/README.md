@@ -90,7 +90,7 @@ Después abre `http://localhost:8000/` en el navegador. Python se utiliza **solo
 
 ## 5. Actualizar el Excel
 
-### Opción A1: reemplazar la versión publicada
+### Opción A: reemplazar la versión publicada
 
 1. Conserva las hojas `PROPUESTAS`, `DESCARTADAS`, `20 TEMAS`, `20 PROBLEMAS`, `20 SECTORES` y, preferentemente, `MATRICES`, `METODOLOGIA`, `PRIORITARIAS` y `FUENTES`.
 2. Conserva sus encabezados originales. El sistema identifica columnas **por encabezado**, no únicamente por posición.
